@@ -7,15 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "Alan Arroyo"
-=======
-title                    : "Alan Arroyo / Math and Computer Science"
->>>>>>> 424c918f55f0d7e640ebace1603e33cfa6cbc11c
+title                    : "Alan Arroyo / Site Title"
 title_separator          : "-"
 name                     : &name "Alan Arroyo"
-description              : &description "Mathematician, combinatorialist and graph drawer."
-url                      : https://alanarroyo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alan Arroyo"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "I am a postdoc Fellow at the Institute of Science and Technology Austria"
-  location         : "Klosterneuburg, Austria"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
