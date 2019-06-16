@@ -83,8 +83,8 @@ author:
   name             : "Alan Arroyo"
   avatar           : "profile.png"
   bio              : "Post-doc Fellow at IST Austria"
-  location         : "Wien, Austria"
-  employer         : "https://ist.ac.at/en/home/"
+  location         : "Vienna, Austria"
+  employer         :  
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.pk/citations?user=1xFwrmQAAAAJ&hl=en&oi=sra"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/alan_arroyo_"
   vine             :
   weibo            :
   xing             :
