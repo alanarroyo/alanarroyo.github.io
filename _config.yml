@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "alan_arroyo_"
+  username               : "alan_arroyo_" #&twitter
 facebook:
   username               :
   app_id                 :
