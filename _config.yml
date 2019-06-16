@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Alan Arroyo"
+=======
+title                    : "Alan Arroyo / Topological Combinatorialist"
+>>>>>>> 424c918f55f0d7e640ebace1603e33cfa6cbc11c
 title_separator          : "-"
 name                     : &name "Alan Arroyo"
 description              : &description "Mathematician, combinatorialist and graph drawer."
