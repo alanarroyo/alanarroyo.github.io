@@ -10,7 +10,7 @@ locale                   : "en-US"
 <<<<<<< HEAD
 title                    : "Alan Arroyo"
 =======
-title                    : "Alan Arroyo / Topological Combinatorialist"
+title                    : "Alan Arroyo / Math and Computer Science"
 >>>>>>> 424c918f55f0d7e640ebace1603e33cfa6cbc11c
 title_separator          : "-"
 name                     : &name "Alan Arroyo"
@@ -23,7 +23,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Alan Arroyo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar: I am a postdoc Fellow at the Institute of Science and Technology Austria"
+  bio              : "I am a postdoc Fellow at the Institute of Science and Technology Austria"
   location         : "Klosterneuburg, Austria"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
