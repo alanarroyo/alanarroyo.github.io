@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alan Arroyo"
   avatar           : "profile.png"
-  bio              : "I work at IST Austria"
-  location         : "Location"
-  employer         :
+  bio              : "Post-doc Fellow at IST Austria"
+  location         : "Wien, Austria"
+  employer         : "https://ist.ac.at/en/home/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.pk/citations?user=1xFwrmQAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
