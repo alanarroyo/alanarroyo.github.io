@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and Professional Experience
 ======
 * Postdoc in IST Austria, October 2018 - Present
 * Ph.D in University of Waterloo, May 2018 - August 2018.
@@ -17,26 +17,8 @@ Education
 * B.S. in UNAM, Mexico. September 2008 - April 2012
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,4 +40,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Crossing Numbers Workshop Tel\u c, Czech Republic.  May 6-10, 2019.
+*  Mathematical Congress of the americas 2017. Special Session: Current trends in Combinatorics. Organization Committee. Montreal, Canada. July 24-28, 2017.
+* II Taller de Matem\'aticas Discretas. CINNMA, Mexico. July 26-31, 2015.
