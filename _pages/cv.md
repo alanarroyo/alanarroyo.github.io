@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Postdoc in IST Austria, October 2018 - Present
+* Ph.D in University of Waterloo, May 2018 - August 2018.
+* Master in University of Waterloo, September 2012 - April 2014.
+* B.S. in UNAM, Mexico. September 2008 - April 2012
+
 
 Work experience
 ======
