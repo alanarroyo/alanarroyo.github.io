@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/path_partition
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0012365X12004591'
 venue: 'Discrete Mathematics 313, no. 3 (2013): 293-300.'
+date: 2013-02-06
 ---
 
 
