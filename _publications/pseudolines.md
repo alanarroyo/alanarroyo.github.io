@@ -3,8 +3,7 @@ title: "Extending Drawings of Graphs to Arrangements of Pseudolines"
 collection: publications
 permalink: /publication/pseudolines
 excerpt: ''
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2018-11-09
 paperurl: 'https://arxiv.org/pdf/1804.09317.pdf'
 citation: 'Arroyo, A., Bensmail, J. and Richter, R.B., 2018. Extending Drawings of Graphs to Arrangements of Pseudolines. arXiv preprint arXiv:1804.09317.'
 ---
