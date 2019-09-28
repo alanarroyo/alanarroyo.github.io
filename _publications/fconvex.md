@@ -8,19 +8,9 @@ paperurl: 'https://arxiv.org/pdf/1804.09317.pdf'
 citation: 'Arroyo, A., Bensmail, J. and Richter, R.B., 2018. Extending Drawings of Graphs to Arrangements of Pseudolines. arXiv preprint arXiv:1804.09317.'
 ---
 
-<script src="//yihui.name/js/math-code.js"></script>
-<!-- Just one possible MathJax CDN below. You may use others. -->
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-Hi `$z = x + y$`.
-
-`$$a^2 + b^2 = c^2$$`
-
-`$$\begin{vmatrix}a & b\\
-c & d
-\end{vmatrix}=ad-bc$$`
 
 
-A {\em good drawing\/} of $$K_n$$ is a drawing of the complete graph with $n$ vertices in the sphere such that: no two edges with a common end cross; no two edges cross more than once; and no three edges all cross at the same point. Gioan's Theorem asserts that any two good drawings of Kn that have the same rotations of incident edges at every vertex are equivalent up to Reidemeister moves. At the time of preparation, 10 years had passed between the statement in the WG 2005 conference proceedings and our interest in the proposition. Shortly after we completed our preprint, Gioan independently completed a preprint.
+There are three main thrusts to this article: a new proof of Levi’s Enlargement
+Lemma for pseudoline arrangements in the real projective plane; a new characterization of pseudolinear drawings of the complete graph; and proofs that pseudolinear
+and convex drawings of $$K_n$ have $$n^2+\text{O}(n\log n)$$ and $$\text{O}(n)$$, respectively, empty
+triangles. All the arguments are elementary, algorithmic, and self-contained.
