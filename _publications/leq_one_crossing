@@ -1,0 +1,10 @@
+---
+title: "Graphs with at most one crossing"
+collection: publications
+permalink: /publication/leq_one_crossing
+excerpt: ''
+date: 2019-04-26
+paperurl: 'https://arxiv.org/pdf/1901.09955.pdf'
+citation: 'Silva, A.C., Arroyo, A., Richter, R.B. and Lee, O., 2019. Graphs with at most one crossing. arXiv preprint arXiv:1901.09955..'
+---
+The crossing number of a graph $$G$$ is the least number of crossings over all possible drawings of $$G$$. We present a structural characterization of graphs with crossing number one.
